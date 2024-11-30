@@ -1,8 +1,8 @@
 {
-    "name": "Selvania-Launcher",
-    "preductname": "Selvania Launcher",
+    "name": "jupit-launcher",
+    "preductname": "JuPit Launcher",
     "version": "2.0.7",
-    "description": "Launcher Mincraft pour le serveur Selvania",
+    "description": "Launcher Mincraft para le servidor JuPit",
     "main": "src/app.js",
     "author": {
         "name": "luuxis, Inc.",
